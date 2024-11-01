@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hosein</h1>
 <h3 align="center">A passionate Android developer from Iran</h3>
 
-<img align="right" alt="Android" width = "400" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Blog_header_6wHlCuS.gif">
+<img align="right" alt="Android" width = "350" src="https://github.com/M-Hosein-Developer/M-Hosein-Developer/blob/main/pointing-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hosein-developer&label=Profile%20views&color=0e75b6&style=flat" alt="m-hosein-developer" /> </p>
 
@@ -21,8 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-hosein-developer&show_icons=true&locale=en&layout=compact" alt="m-hosein-developer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-hosein-developer&show_icons=true&locale=en&layout=compact" alt="m-hosein-developer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-hosein-developer&show_icons=true&locale=en" alt="m-hosein-developer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=m-hosein-developer&show_icons=true&locale=en" alt="m-hosein-developer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hosein-developer&" alt="m-hosein-developer" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hosein-developer&" alt="m-hosein-developer" /></p>
